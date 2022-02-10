@@ -1,0 +1,17 @@
+{
+  "orders":
+  [
+    {
+      "temp": "hot",
+      "size": "small",
+      "name": "Latte",
+      "base": "oat milk"
+    },
+    {
+      "temp": "iced",
+      "size": "large",
+      "name": "Americano",
+      "base": "soy milk"
+    }
+  ]
+}
